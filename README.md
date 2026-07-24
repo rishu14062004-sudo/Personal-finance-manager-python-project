@@ -63,31 +63,42 @@ python finance_manager.py
 
 ### Main Menu
 
-(Add Screenshot Here)
+<img width="572" height="373" alt="image" src="https://github.com/user-attachments/assets/630b1f46-206a-454f-bf31-c7ee889ec552" />
+
+
 
 ### Add Income
 
-(Add Screenshot Here)
+<img width="453" height="355" alt="image" src="https://github.com/user-attachments/assets/8a59cd56-5116-408f-b016-13b9b65d2157" />
+
+
 
 ### Add Expense
 
-(Add Screenshot Here)
+<img width="509" height="343" alt="image" src="https://github.com/user-attachments/assets/6a0c71f8-171b-4db6-8260-f5378128bac4" />
+
+
+
 
 ### View Transactions
 
-(Add Screenshot Here)
+<img width="667" height="563" alt="image" src="https://github.com/user-attachments/assets/fc008510-fe25-41cc-8df7-14c50bdc52b6" />
+
 
 ### Check Current Balance
 
-(Add Screenshot Here)
+<img width="600" height="512" alt="image" src="https://github.com/user-attachments/assets/5c81e074-c657-45cf-b971-5bed6d453abb" />
+
 
 ### Expense Distribution (Pie Chart)
 
-(Add Screenshot Here)
+<img width="750" height="840" alt="image" src="https://github.com/user-attachments/assets/cff643c9-4b57-4495-b310-d6698f21ae67" />
+
 
 ### Income vs Expense Comparison (Bar Chart)
 
-(Add Screenshot Here)
+<img width="752" height="708" alt="image" src="https://github.com/user-attachments/assets/719b04ab-88ea-4e87-8b2d-28b36a12f5d2" />
+
 
 ---
 
