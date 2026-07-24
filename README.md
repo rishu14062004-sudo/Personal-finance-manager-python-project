@@ -37,7 +37,7 @@ Personal-Finance-Manager/
 │── transactions.csv
 │── requirements.txt
 │── README.md
-│── screenshots/
+
 ```
 
 ---
